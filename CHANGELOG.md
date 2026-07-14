@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/).
+## [0.3.1](https://github.com/polaris-trade/client-moldudp/compare/client_moldudp-v0.3.0...client_moldudp-v0.3.1) (2026-07-14)
+
+
+### Documentation
+
+* update README ([c3c8a1b](https://github.com/polaris-trade/client-moldudp/commit/c3c8a1bbedc85042d0e636ed9b74834fc2879691))
+
 ## [0.3.0](https://github.com/polaris-trade/client-moldudp/compare/client_moldudp-v0.2.3...client_moldudp-v0.3.0) (2026-07-11)
 
 
