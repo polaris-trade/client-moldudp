@@ -1,3 +1,7 @@
+> **⚠️ Archived — this crate moved to [`polaris-trade/clients`](https://github.com/polaris-trade/clients).**
+>
+> `client_moldudp` now lives at [`crates/moldudp`](https://github.com/polaris-trade/clients/tree/main/crates/moldudp) in the `clients` workspace; new releases are cut there as `client_moldudp-vX.Y.Z`. Existing `client_moldudp-v*` tags on this repository stay resolvable for historical pins. This repository is read-only — open issues and PRs against `clients`.
+
 # client_moldudp
 
 MoldUDP64 market-data client: wire codec, sequence reassembler, gap re-request, and A/B line arbitration behind one backend-generic receiver.
